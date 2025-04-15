@@ -6,6 +6,17 @@ Binging SwiftUI and Swift videos in 60 days count down to WWDC25
 🏁 One iOS dev topic a day — let’s level up together!
 
 ---
+🚀 Day 4/60 — 56 days to #WWDC25!
+
+🎯 Today’s focus: SwiftUI Layout System 📐
+Learn how SwiftUI arranges views with Stacks and Lazy Stacks
+
+🎥 WWDC20: https://developer.apple.com/videos/play/wwdc2020/10031
+⏱️ Just 19 mins — totally worth fitting into your day
+
+Bonus: [Compose custom layouts with SwiftUI](https://developer.apple.com/videos/play/wwdc2022/10056)
+***
+
 
 🚀 Day 3/60 - 57 days to #WWDC25!
 Let’s binge SwiftUI 🔄
