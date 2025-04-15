@@ -13,6 +13,7 @@ Today’s about breaking past basic stacks 🧱
 Learn to create flexible, reusable layout containers with the new Layout protocol. 
 
 ⏱️ You're just 27 mins away from a more composable you 😉
+
 🎥 https://developer.apple.com/videos/play/wwdc2022/10056  
 
 ***
@@ -22,6 +23,7 @@ Learn to create flexible, reusable layout containers with the new Layout protoco
 Learn how SwiftUI arranges views with Stacks and Lazy Stacks
 
 🎥 WWDC20: https://developer.apple.com/videos/play/wwdc2020/10031
+
 ⏱️ Just 19 mins — totally worth fitting into your day
 
 Bonus 📖: [Building layouts with stack views](https://developer.apple.com/documentation/swiftui/building-layouts-with-stack-views)
@@ -35,6 +37,7 @@ Let’s binge SwiftUI 🔄
 Master @State, @Binding, @ObservedObject, @Environment
 
 🎥 WWDC19: [Data Flow through SwiftUI](https://developer.apple.com/videos/play/wwdc2019/226)
+
 ⏱️37 mins – Core concepts you’ll use daily!
 
 Bonus: [WWDC23-Observation in SwiftUI](https://developer.apple.com/videos/play/wwdc2023/10149)
@@ -49,6 +52,7 @@ Counting down to #WWDC25
 🎯 Today's topic: The SwiftUI Cookbook for Navigation
 Learn powerful patterns for pushing, popping, switching tabs, and more in SwiftUI - the right way! 
 [The SwiftUI Cookbook for Navigation](https://developer.apple.com/videos/play/wwdc2022/10054)
+
 ⏱️ Just 26 minutes
 
 Bonus: [Paul Hudson's Article on NaviationView](https://www.hackingwithswift.com/articles/216/complete-guide-to-navigationview-in-swiftui)
@@ -62,5 +66,7 @@ Counting down to #WWDC25 — just 60 days to go!
 Kicking things off by revisiting SwiftUI Essentials from WWDC24:
 
 [SwiftUI Essentials from WWDC24](https://developer.apple.com/videos/play/wwdc2024/10150)
+
+⏱️ Duration: 24 mins
 
 Bonus: [Demystify SwiftUI](https://developer.apple.com/videos/play/wwdc2021/10022)
