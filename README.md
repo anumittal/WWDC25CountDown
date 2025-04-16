@@ -6,6 +6,16 @@ Binging SwiftUI and Swift videos in 60 days count down to WWDC25
 🏁 One iOS dev topic a day — let’s level up together!
 
 ---
+[🚀 Day 6/60 — 54 days to WWDC25!](https://x.com/anu22mittal/status/1912392376368394467)
+Today’s about embracing concurrency in Swift ⚡️ 🎯 
+
+Topic: Swift Concurrency Basics & Async/Await Learn how to build safe, concurrent systems in Swift using async/await.
+
+⏱️ 38 mins away from understanding concurrency 
+🎥 https://developer.apple.com/videos/play/wwdc2021/10134
+
+***
+
 🚀 [Day 5/60 — 55 days to WWDC25!](https://x.com/anu22mittal/status/1912180731662709203)
 Today’s about breaking past basic stacks 🧱 
 
