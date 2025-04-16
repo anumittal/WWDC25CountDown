@@ -12,7 +12,10 @@ Today’s about embracing concurrency in Swift ⚡️ 🎯
 Topic: Swift Concurrency Basics & Async/Await Learn how to build safe, concurrent systems in Swift using async/await.
 
 ⏱️ 38 mins away from understanding concurrency 
+
 🎥 https://developer.apple.com/videos/play/wwdc2021/10134
+
+Bonus: [Beyond the basics](https://developer.apple.com/videos/play/wwdc2023/10170)
 
 ***
 
