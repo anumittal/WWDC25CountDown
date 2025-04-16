@@ -6,7 +6,7 @@ Binging SwiftUI and Swift videos in 60 days count down to WWDC25
 🏁 One iOS dev topic a day — let’s level up together!
 
 ---
-🚀 Day 5/60 — 55 days to WWDC25!
+🚀 [Day 5/60 — 55 days to WWDC25!](https://x.com/anu22mittal/status/1912180731662709203)
 Today’s about breaking past basic stacks 🧱 
 
 🎯 Topic: Compose Custom Layouts with SwiftUI
@@ -17,7 +17,7 @@ Learn to create flexible, reusable layout containers with the new Layout protoco
 🎥 https://developer.apple.com/videos/play/wwdc2022/10056  
 
 ***
-🚀 Day 4/60 — 56 days to #WWDC25!
+🚀 [Day 4/60 — 56 days to #WWDC25!](https://x.com/anu22mittal/status/1911980821956989285)
 
 🎯 Today’s focus: SwiftUI Layout System 📐
 Learn how SwiftUI arranges views with Stacks and Lazy Stacks
@@ -30,7 +30,7 @@ Bonus 📖: [Building layouts with stack views](https://developer.apple.com/docu
 ***
 
 
-🚀 Day 3/60 - 57 days to #WWDC25!
+🚀 [Day 3/60 - 57 days to #WWDC25!](https://x.com/anu22mittal/status/1911567786947870967)
 Let’s binge SwiftUI 🔄
 
 🎯 Topic: Data Flow in SwiftUI
@@ -46,7 +46,7 @@ Bonus: [WWDC23-Observation in SwiftUI](https://developer.apple.com/videos/play/w
 
 
 
-🚀Day 2/60 
+[🚀Day 2/60](https://x.com/anu22mittal/status/1911235920592085099) 
 Counting down to #WWDC25 
 
 🎯 Today's topic: The SwiftUI Cookbook for Navigation
@@ -60,7 +60,7 @@ Bonus: [Paul Hudson's Article on NaviationView](https://www.hackingwithswift.com
 
 ***
 
-🚀 Day 1/60 - 60 Days to go
+🚀 [Day 1/60](https://x.com/anu22mittal/status/1910904369266274647) - 60 Days to go
 
 Counting down to #WWDC25 — just 60 days to go!
 Kicking things off by revisiting SwiftUI Essentials from WWDC24:
@@ -68,5 +68,7 @@ Kicking things off by revisiting SwiftUI Essentials from WWDC24:
 [SwiftUI Essentials from WWDC24](https://developer.apple.com/videos/play/wwdc2024/10150)
 
 ⏱️ Duration: 24 mins
+
+
 
 Bonus: [Demystify SwiftUI](https://developer.apple.com/videos/play/wwdc2021/10022)
