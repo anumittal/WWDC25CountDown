@@ -6,24 +6,46 @@ Binging SwiftUI and Swift videos in 60 days count down to WWDC25
 🏁 One iOS dev topic a day — let’s level up together!
 
 ---
+[🚀 Day 9/60 — 51 days to WWDC25!](https://x.com/anu22mittal/status/1913503151971532830)
+Today’s focus: robust error handling in Swift ⚠️
+
+🎯 Topic: Error Handling & Result Type
+Learn to manage errors with Swift’s Result type and patterns.
+
+⏱️ About 30 mins to improve your skills.
+
+📖 [Docs Result](https://developer.apple.com/documentation/swift/result )
+
+📖 [Error Handling](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/errorhandling/)
+
+***
 [🚀 Day 8/60 — 52 days to WWDC25!](https://x.com/anu22mittal/status/1913093860340994321)
 Today’s about exploring Swift’s powerful metaprogramming tools 🛠️
 🎯 Topic: Swift Macros
 Learn how macros can help you write cleaner, more expressive Swift code.
+
 ⏱️ Around 40 minutes to get familiar with Swift’s metaprogramming capabilities.
+
 🎥 [https://developer.apple.com/videos/play/wwdc2023/10167](https://developer.apple.com/videos/play/wwdc2023/10167)
 
+Bonus:
 [Expand on Swift macros WWDC23](https://developer.apple.com/videos/play/wwdc2023/10167)
+
 [Write Swift macros WWDC23](https://developer.apple.com/videos/play/wwdc2023/10166)
+
 ***
 
 [🚀 Day 7/60 — 53 days to WWDC25!](https://x.com/anu22mittal/status/1912687456606122467)
 Today’s about mastering powerful Swift language features 🧩
+
 🎯 Topic: Time to Embrace Generics
 Discover how generics can make your Swift code more flexible and reusable.
+
 ⏱️ You're just 27 minutes away from improving your understanding of generics.
+
 🎥 [https://developer.apple.com/videos/play/wwdc2022/110352](https://developer.apple.com/videos/play/wwdc2022/110352) 
 
+***
 
 [🚀 Day 6/60 — 54 days to WWDC25!](https://x.com/anu22mittal/status/1912392376368394467)
 Today’s about embracing concurrency in Swift ⚡️ 🎯 
@@ -34,7 +56,7 @@ Topic: Swift Concurrency Basics & Async/Await Learn how to build safe, concurren
 
 🎥 https://developer.apple.com/videos/play/wwdc2021/10134
 
-Bonus: [Beyond the basics](https://developer.apple.com/videos/play/wwdc2023/10170)
+Bonus: [Beyond the basics from WWDC22](https://developer.apple.com/videos/play/wwdc2023/10170)
 
 ***
 
@@ -46,7 +68,9 @@ Learn to create flexible, reusable layout containers with the new Layout protoco
 
 ⏱️ You're just 27 mins away from a more composable you 😉
 
-🎥 https://developer.apple.com/videos/play/wwdc2022/10056  
+🎥 [WWDC22](https://developer.apple.com/videos/play/wwdc2022/10056)
+
+Bonus: [WWDC 19](https://developer.apple.com/videos/play/wwdc2019/237)
 
 ***
 🚀 [Day 4/60 — 56 days to #WWDC25!](https://x.com/anu22mittal/status/1911980821956989285)
