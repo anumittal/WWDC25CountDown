@@ -6,6 +6,16 @@ Binging SwiftUI and Swift videos in 60 days count down to WWDC25
 🏁 One iOS dev topic a day — let’s level up together!
 
 ---
+[🚀 Day 8/60 — 52 days to WWDC25!](https://x.com/anu22mittal/status/1913093860340994321)
+Today’s about exploring Swift’s powerful metaprogramming tools 🛠️
+🎯 Topic: Swift Macros
+Learn how macros can help you write cleaner, more expressive Swift code.
+⏱️ Around 40 minutes to get familiar with Swift’s metaprogramming capabilities.
+🎥 [https://developer.apple.com/videos/play/wwdc2023/10167](https://developer.apple.com/videos/play/wwdc2023/10167)
+
+[Expand on Swift macros WWDC23](https://developer.apple.com/videos/play/wwdc2023/10167)
+[Write Swift macros WWDC23](https://developer.apple.com/videos/play/wwdc2023/10166)
+***
 
 [🚀 Day 7/60 — 53 days to WWDC25!](https://x.com/anu22mittal/status/1912687456606122467)
 Today’s about mastering powerful Swift language features 🧩
