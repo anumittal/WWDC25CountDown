@@ -6,6 +6,15 @@ Binging SwiftUI and Swift videos in 60 days count down to WWDC25
 🏁 One iOS dev topic a day — let’s level up together!
 
 ---
+
+[🚀 Day 7/60 — 53 days to WWDC25!](https://x.com/anu22mittal/status/1912687456606122467)
+Today’s about mastering powerful Swift language features 🧩
+🎯 Topic: Time to Embrace Generics
+Discover how generics can make your Swift code more flexible and reusable.
+⏱️ You're just 27 minutes away from improving your understanding of generics.
+🎥 [https://developer.apple.com/videos/play/wwdc2022/110352](https://developer.apple.com/videos/play/wwdc2022/110352) 
+
+
 [🚀 Day 6/60 — 54 days to WWDC25!](https://x.com/anu22mittal/status/1912392376368394467)
 Today’s about embracing concurrency in Swift ⚡️ 🎯 
 
