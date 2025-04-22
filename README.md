@@ -6,6 +6,19 @@ Binging SwiftUI and Swift videos in 60 days count down to WWDC25
 🏁 One iOS dev topic a day — let’s level up together!
 
 ---
+
+🚀 [**Topic 10/60** — 50 days to WWDC25!](https://x.com/anu22mittal/status/1914503506398187820)
+
+Today’s focus: mastering memory management in Swift 🧠  
+
+🎯 Focus: Analyze heap memory
+Dive into the basics of dynamic memory, the heap!
+
+⏱️ Spend around 32 minutes deepening your understanding.
+🎥  https://developer.apple.com/videos/play/wwdc2024/10173
+
+***
+
 [🚀 Day 9/60 — 51 days to WWDC25!](https://x.com/anu22mittal/status/1913503151971532830)
 Today’s focus: robust error handling in Swift ⚠️
 
