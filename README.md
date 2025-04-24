@@ -6,6 +6,18 @@ Binging SwiftUI and Swift videos in 60 days countdown to WWDC25
 🏁 One iOS dev topic a day — let’s level up together!
 
 ---
+[🚀 Day 14/60 — 46 days to WWDC25!](https://x.com/anu22mittal/status/1915308922917052470)
+
+🎯 Today’s topic: _Demystify SwiftUI Performance_  
+
+Discover how to profile SwiftUI, interpret Instruments metrics, and apply optimization strategies to reduce view-update and rendering overhead.
+
+⏱️ This ~22-minute session will equip you to diagnose and tune SwiftUI performance.  
+
+🎥 From WWDC23: https://developer.apple.com/videos/play/wwdc2023/10160/
+
+***
+
 [🚀 Day 13/60 - 47 days to WWDC25! ](https://x.com/anu22mittal/status/1915304258586694106)
 
 🎯 Today’s topic: Accessibility in SwiftUI
