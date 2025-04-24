@@ -28,7 +28,7 @@ Learn how to use SwiftUI’s accessibility modifiers—labels, traits, actions�
 🎥 From WWDC24: https://developer.apple.com/videos/play/wwdc2024/10073 
 
 ***
-🚀 Topic 12/60 - 48 days to WWDC25!🤲✨
+[🚀 Topic 12/60 - 48 days to WWDC25!🤲✨](https://x.com/anu22mittal/status/1915302397947109408)
 
 🎯 Topic: [Gestures in SwiftUI](https://developer.apple.com/documentation/swiftui/gestures )
 
