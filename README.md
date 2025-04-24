@@ -1,11 +1,23 @@
-## WWDC25CountDown
+## WWDC25Countdown
 
 
-Binging SwiftUI and Swift videos in 60 days count down to WWDC25
+Binging SwiftUI and Swift videos in 60 days countdown to WWDC25
 
 🏁 One iOS dev topic a day — let’s level up together!
 
 ---
+
+🚀 Topic 12/60 - 48 days to WWDC25!🤲✨
+
+🎯 Topic: [Gestures in SwiftUI](https://developer.apple.com/documentation/swiftui/gestures )
+
+Learn how to add tap, drag, long-press and custom gestures to your views.
+
+• ~40 mins reading + practicing gestures
+
+🔍 Plus: [What’s New in SwiftUI (WWDC24)](https://developer.apple.com/videos/play/wwdc2024/10144 )
+
+***
 
 [🚀 Day 11/60 — 49 days to WWDC25!](https://x.com/anu22mittal/status/1915295041133977770)
 
