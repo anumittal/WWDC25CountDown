@@ -6,14 +6,23 @@ Binging SwiftUI and Swift videos in 60 days countdown to WWDC25
 🏁 One iOS dev topic a day — let’s level up together!
 
 ---
+[🚀 Day 13/60 - 47 days to WWDC25! ](https://x.com/anu22mittal/status/1915304258586694106)
 
+🎯 Today’s topic: Accessibility in SwiftUI
+Learn how to use SwiftUI’s accessibility modifiers—labels, traits, actions—and test with VoiceOver. 
+
+⏱️ 25 minutes to dive into accessibility features. 
+
+🎥 From WWDC24: https://developer.apple.com/videos/play/wwdc2024/10073 
+
+***
 🚀 Topic 12/60 - 48 days to WWDC25!🤲✨
 
 🎯 Topic: [Gestures in SwiftUI](https://developer.apple.com/documentation/swiftui/gestures )
 
 Learn how to add tap, drag, long-press and custom gestures to your views.
 
-• ~40 mins reading + practicing gestures
+⏱️ ~40 mins reading + practicing gestures
 
 🔍 Plus: [What’s New in SwiftUI (WWDC24)](https://developer.apple.com/videos/play/wwdc2024/10144 )
 
