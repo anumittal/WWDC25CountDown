@@ -7,14 +7,33 @@ Binging SwiftUI and Swift videos in 60 days count down to WWDC25
 
 ---
 
+[🚀 Day 11/60 — 49 days to WWDC25!](https://x.com/anu22mittal/status/1915295041133977770)
+
+🎯 Topic: Enhance Your UI Animations and Transitions
+
+Learn modern techniques to create smooth, interactive animations in SwiftUI.
+
+⏱️ Duration: 19 mins
+
+🎥 From WWDC24: https://developer.apple.com/videos/play/wwdc2024/10145 
+
+Diving Deeper: To dive deeper into the basics of SwiftUI animation watch this [WWDC23 video](https://developer.apple.com/videos/play/wwdc2023/10156).
+
+Duration: 30 mins
+
+***
+
+
 🚀 [**Topic 10/60** — 50 days to WWDC25!](https://x.com/anu22mittal/status/1914503506398187820)
 
 Today’s focus: mastering memory management in Swift 🧠  
 
 🎯 Focus: Analyze heap memory
+
 Dive into the basics of dynamic memory, the heap!
 
 ⏱️ Spend around 32 minutes deepening your understanding.
+
 🎥  https://developer.apple.com/videos/play/wwdc2024/10173
 
 ***
