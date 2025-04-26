@@ -6,6 +6,17 @@ Binging SwiftUI and Swift videos in 60 days countdown to WWDC25
 🏁 One iOS dev topic a day — let’s level up together!
 
 ---
+🚀 Day 15/60 — 45 days to WWDC25!
+
+🎯 Today’s topic: Observation in SwiftUI
+
+Discover SwiftUI’s new observation model—using @Observable and compiler-driven macros—to automatically notify views of data changes.
+
+⏱️ 25 minutes to streamline your state tracking and view updates.
+
+🎥 From WWDC23: https://developer.apple.com/videos/play/wwdc2023/10149 
+
+***
 [🚀 Day 14/60 — 46 days to WWDC25!](https://x.com/anu22mittal/status/1915308922917052470)
 
 🎯 Today’s topic: _Demystify SwiftUI Performance_  
