@@ -6,13 +6,26 @@ Binging SwiftUI and Swift videos in 60 days countdown to WWDC25
 🏁 One iOS dev topic a day — let’s level up together!
 
 ---
+
+🚀 Day 16/60 — 44 days to WWDC25!
+
+🎯 Today’s topic: Introduction to the Combine Framework
+
+Learn core Combine concepts—Publishers, Subscribers & Operators—for handling asynchronous data streams.
+
+⏱️ ~18 minutes to dive into Combine.
+
+🎥 From WWDC19: Introducing Combine — https://developer.apple.com/videos/play/wwdc2019/722 
+
+**
+
 🚀 Day 15/60 — 45 days to WWDC25!
 
 🎯 Today’s topic: Observation in SwiftUI
 
 Discover SwiftUI’s new observation model—using @Observable and compiler-driven macros—to automatically notify views of data changes.
 
-⏱️ 25 minutes to streamline your state tracking and view updates.
+⏱️ 12.5 minutes to streamline your state tracking and view updates.
 
 🎥 From WWDC23: https://developer.apple.com/videos/play/wwdc2023/10149 
 
