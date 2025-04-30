@@ -6,6 +6,18 @@ Binging SwiftUI and Swift videos in 60 days countdown to WWDC25
 🏁 One iOS dev topic a day — let’s level up together!
 
 ---
+🚀 Day 20/60 - 40 days to WWDC25!
+
+🎯 Today’s topic: Debugging Combine Pipelines
+Learn techniques to inspect, trace, and troubleshoot your Combine chains using logging, breakpoints, and best practices.
+
+⏱️ ~30 minutes 
+
+📖 Guide: https://www.avanderlee.com/debugging/combine-swift/ 
+
+#SwiftUI #WWDC25
+
+***
 🚀 Day 19/60 — 41 days to WWDC25!
 
 🎯 Today’s topic: Bridging Combine and Async/Await
