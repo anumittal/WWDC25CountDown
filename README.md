@@ -6,6 +6,29 @@ Binging SwiftUI and Swift videos in 60 days countdown to WWDC25
 🏁 One iOS dev topic a day — let’s level up together!
 
 ---
+🚀 Day 18/60 — 42 days to WWDC25!
+
+🎯 Today’s topic: Using Combine for Your App’s Asynchronous Code
+
+Learn how to set up publishers, subscribers, and handle asynchronous workflows in your Swift apps.
+
+⏱️ About 30 minutes to read through the guide and try out the examples.
+
+📖 https://developer.apple.com/documentation/combine/using-combine-for-your-app-s-asynchronous-code 
+
+***
+
+🚀 Day 17/60 — 43 days to WWDC25!
+
+🎯 Today’s topic: Dive into Combine Fundamentals
+
+Learn how Combine’s publishers, subscribers, and operators work together to handle asynchronous events.
+
+⏱️ About 45 minutes to explore the core concepts.
+
+🎥 From WWDC19: https://developer.apple.com/videos/play/wwdc2019/721 
+
+***
 
 🚀 Day 16/60 — 44 days to WWDC25!
 
@@ -17,7 +40,7 @@ Learn core Combine concepts—Publishers, Subscribers & Operators—for handling
 
 🎥 From WWDC19: Introducing Combine — https://developer.apple.com/videos/play/wwdc2019/722 
 
-**
+***
 
 🚀 Day 15/60 — 45 days to WWDC25!
 
