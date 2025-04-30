@@ -6,6 +6,18 @@ Binging SwiftUI and Swift videos in 60 days countdown to WWDC25
 🏁 One iOS dev topic a day — let’s level up together!
 
 ---
+🚀 Day 19/60 — 41 days to WWDC25!
+
+🎯 Today’s topic: Bridging Combine and Async/Await
+
+Learn how to convert Combine publishers into Swift’s AsyncSequence and weave async/await back into Combine pipelines.
+
+⏱️ About 30 mins to read the guide and try the examples.
+
+📖 Read “[Using Combine’s AsyncPublisher](https://developer.apple.com/documentation/combine/asyncpublisher )” (bridging to Swift concurrency)
+
+***
+
 🚀 Day 18/60 — 42 days to WWDC25!
 
 🎯 Today’s topic: Using Combine for Your App’s Asynchronous Code
