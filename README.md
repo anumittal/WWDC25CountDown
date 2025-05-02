@@ -6,7 +6,18 @@ Binging SwiftUI and Swift videos in 60 days countdown to WWDC25
 🏁 One iOS dev topic a day — let’s level up together!
 
 ---
-🚀 Day 20/60 - 40 days to WWDC25!
+[🚀 Day 21/60 - 39 days to WWDC25!](https://x.com/anu22mittal/status/1918179189565604192)
+
+🎯 Today’s topic: Design and build apps for watchOS 10
+Dive  into watchOS design principles and learn how to apply them in  SwiftUI.
+
+⏱️ 20 minutes to watch and learn about watchOS development :D  
+🎥 https://developer.apple.com/videos/play/wwdc2023/10138
+
+
+***
+
+[🚀 Day 20/60 - 40 days to WWDC25!](https://x.com/anu22mittal/status/1917728506362179983)
 
 🎯 Today’s topic: Debugging Combine Pipelines
 Learn techniques to inspect, trace, and troubleshoot your Combine chains using logging, breakpoints, and best practices.
@@ -18,7 +29,7 @@ Learn techniques to inspect, trace, and troubleshoot your Combine chains using l
 #SwiftUI #WWDC25
 
 ***
-🚀 Day 19/60 — 41 days to WWDC25!
+[🚀 Day 19/60 — 41 days to WWDC25!](https://x.com/anu22mittal/status/1917726979530649986)
 
 🎯 Today’s topic: Bridging Combine and Async/Await
 
@@ -30,7 +41,7 @@ Learn how to convert Combine publishers into Swift’s AsyncSequence and weave a
 
 ***
 
-🚀 Day 18/60 — 42 days to WWDC25!
+[🚀 Day 18/60 — 42 days to WWDC25!](https://x.com/anu22mittal/status/1917722850158600682)
 
 🎯 Today’s topic: Using Combine for Your App’s Asynchronous Code
 
@@ -42,7 +53,7 @@ Learn how to set up publishers, subscribers, and handle asynchronous workflows i
 
 ***
 
-🚀 Day 17/60 — 43 days to WWDC25!
+[🚀 Day 17/60 — 43 days to WWDC25!](https://x.com/anu22mittal/status/1916737600838402404)
 
 🎯 Today’s topic: Dive into Combine Fundamentals
 
@@ -54,7 +65,7 @@ Learn how Combine’s publishers, subscribers, and operators work together to ha
 
 ***
 
-🚀 Day 16/60 — 44 days to WWDC25!
+[🚀 Day 16/60 — 44 days to WWDC25!](https://x.com/anu22mittal/status/1916383385875894431)
 
 🎯 Today’s topic: Introduction to the Combine Framework
 
@@ -66,7 +77,7 @@ Learn core Combine concepts—Publishers, Subscribers & Operators—for handling
 
 ***
 
-🚀 Day 15/60 — 45 days to WWDC25!
+[🚀 Day 15/60 — 45 days to WWDC25!](https://x.com/anu22mittal/status/1916013131031073064)
 
 🎯 Today’s topic: Observation in SwiftUI
 
