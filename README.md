@@ -6,6 +6,18 @@ Binging SwiftUI and Swift videos in 60 days countdown to WWDC25
 🏁 One iOS dev topic a day — let’s level up together!
 
 ---
+
+[🚀 Day 22/60 - 38 days to WWDC25!](https://x.com/anu22mittal/status/1918778575924195826)
+
+🎯 Today’s topic: Data Transfer on Apple Watch
+Learn  how to share data between your iOS app and watchOS using Watch  Connectivity.
+
+
+⏱️ ~32 minutes to watch and explore the APIs.
+🎥 https://developer.apple.com/videos/play/wwdc2021/10003 
+
+***
+
 [🚀 Day 21/60 - 39 days to WWDC25!](https://x.com/anu22mittal/status/1918179189565604192)
 
 🎯 Today’s topic: Design and build apps for watchOS 10
