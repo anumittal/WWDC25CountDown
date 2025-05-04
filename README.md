@@ -6,6 +6,18 @@ Binging SwiftUI and Swift videos in 60 days countdown to WWDC25
 🏁 One iOS dev topic a day — let’s level up together!
 
 ---
+[🚀 Day 23/60 - 37 days to WWDC25!  ](https://x.com/anu22mittal/status/1919144218674802700)
+
+🎯 Bring Your iPad Apps to Mac with Mac Catalyst 
+Fun face: Mac Catalyst remains centered around UIKit, with the option to incorporate SwiftUI elements as needed.
+
+⏱️ ~15.5 minutes to get an idea
+🎥  https://developer.apple.com/videos/play/wwdc2020/10143
+
+#SwiftUI #WWDC25 
+
+
+***
 
 [🚀 Day 22/60 - 38 days to WWDC25!](https://x.com/anu22mittal/status/1918778575924195826)
 
