@@ -6,6 +6,17 @@ Binging SwiftUI and Swift videos in 60 days countdown to WWDC25
 🏁 One iOS dev topic a day — let’s level up together!
 
 ---
+🚀 Topic 24/60 - Countdown to WWDC25!  
+
+🎯 Today’s topic: Build Apps for macOS with AppKit
+Learn how to craft native Mac experiences
+
+⏱️ ~37 minutes to watch and experiment
+
+🎥 https://developer.apple.com/videos/play/wwdc2019/210
+
+***
+
 [🚀 Day 23/60 - 37 days to WWDC25!  ](https://x.com/anu22mittal/status/1919144218674802700)
 
 🎯 Bring Your iPad Apps to Mac with Mac Catalyst 
