@@ -16,7 +16,7 @@ Binging SwiftUI and Swift videos in 60 days countdown to WWDC25
 
 [https://developer.apple.com/videos/play/wwdc2020/10042](https://developer.apple.com/videos/play/wwdc2020/10042)
 
-[WWDC 21: https://developer.apple.com/news/?id=ppkqgo2w](WWDC 21: https://developer.apple.com/news/?id=ppkqgo2w)
+[WWDC21](https://developer.apple.com/news/?id=ppkqgo2w)
 
 ***
 
