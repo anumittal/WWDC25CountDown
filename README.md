@@ -6,6 +6,20 @@ Binging SwiftUI and Swift videos in 60 days countdown to WWDC25
 🏁 One iOS dev topic a day — let’s level up together!
 
 ---
+🚀  25/60 -  Countdown to WWDC25!  
+
+🎯 Today’s topic: Build SwiftUI apps for tvOS 
+ 
+⏱️ ~37 minutes to watch and explore what's new in tvOS.  
+
+🎥 From WWDC20: Build SwiftUI apps for tvOS 
+
+[https://developer.apple.com/videos/play/wwdc2020/10042](https://developer.apple.com/videos/play/wwdc2020/10042)
+
+[WWDC 21: https://developer.apple.com/news/?id=ppkqgo2w](WWDC 21: https://developer.apple.com/news/?id=ppkqgo2w)
+
+***
+
 🚀 Topic 24/60 - Countdown to WWDC25!  
 
 🎯 Today’s topic: Build Apps for macOS with AppKit
