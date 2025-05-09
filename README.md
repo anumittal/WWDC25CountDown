@@ -6,6 +6,20 @@ Binging SwiftUI and Swift videos in 60 days countdown to WWDC25
 🏁 One iOS dev topic a day — let’s level up together!
 
 ---
+
+🚀 26/60 - 34 days to WWDC25!
+
+🎯 Topic: MVVM & Architecture for SwiftUI Apps
+
+⏱️ ~30 minutes
+
+[https://www.avanderlee.com/swiftui/mvvm-architectural-coding-pattern-to-structure-views/ ](https://www.avanderlee.com/swiftui/mvvm-architectural-coding-pattern-to-structure-views/ )
+[https://www.hackingwithswift.com/books/ios-swiftui/introducing-mvvm-into-your-swiftui-project ](https://www.hackingwithswift.com/books/ios-swiftui/introducing-mvvm-into-your-swiftui-project )
+[https://matteomanferdini.com/swiftui-mvvm/ ](https://matteomanferdini.com/swiftui-mvvm/ )
+
+
+***
+
 🚀  25/60 -  Countdown to WWDC25!  
 
 🎯 Today’s topic: Build SwiftUI apps for tvOS 
