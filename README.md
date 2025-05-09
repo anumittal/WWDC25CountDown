@@ -6,8 +6,21 @@ Binging SwiftUI and Swift videos in 60 days countdown to WWDC25
 🏁 One iOS dev topic a day — let’s level up together!
 
 ---
+[🚀Day 27/60 - 33 days to WWDC25!](https://x.com/anu22mittal/status/1920634398132613277)
 
-🚀 26/60 - 34 days to WWDC25!
+🎯 Topic: Go further with Swift Testing
+
+Learn how to write a sweet set of (test) suites using Swift Testing's baked-in features.
+
+⏱️ ~ 30 mins
+
+[https://developer.apple.com/videos/play/wwdc2024/10195](https://developer.apple.com/videos/play/wwdc2024/10195)
+
+#WWDC25 #SwiftUI #Countdown #Swift #SwiftTesting
+
+***
+
+[🚀 26/60 - 34 days to WWDC25!](https://x.com/anu22mittal/status/1920632220684828880)
 
 🎯 Topic: MVVM & Architecture for SwiftUI Apps
 
